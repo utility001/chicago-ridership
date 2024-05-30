@@ -45,5 +45,5 @@ It is important to note that this project is a work in progress and addition wor
 - Deploying the model to a live environment
 
 ## References
-- Chicago Data Portal: [CTA Ridership Dataset](hhttps://data.cityofchicago.org/Transportation/CTA-Ridership-Daily-Boarding-Totals/6iiy-9s97/about_data)
+- Chicago Data Portal: [CTA Ridership Dataset](https://data.cityofchicago.org/Transportation/CTA-Ridership-Daily-Boarding-Totals/6iiy-9s97/about_data)
 - SARIMAX [documentation](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX)
